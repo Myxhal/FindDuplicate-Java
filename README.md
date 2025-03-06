@@ -20,8 +20,10 @@ A Java program that takes a series of integers as command-line arguments and ide
    javac FindDuplicate.java
 
 2. **Run the program with a list of integers:**
-java FindDuplicate [num1] [num2] [num3] ...
+   ```bash 
+   java FindDuplicate [num1] [num2] [num3] ...
 
-3. **Example Run**
-java FindDuplicate 1 5 3 7 5 9 3
-Duplicate numbers: 5 3
+4. **Example Run**
+  ```bash 
+   java FindDuplicate 1 5 3 7 5 9 3
+   Duplicate numbers: 5 3
