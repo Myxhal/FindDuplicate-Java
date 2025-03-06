@@ -21,6 +21,6 @@ A Java program that takes a series of integers as command-line arguments and ide
    java FindDuplicate [num1] [num2] [num3] ...
 
 4. **Example Run**
-  ```bash 
+  ```bash
    java FindDuplicate 1 5 3 7 5 9 3
    Duplicate numbers: 5 3
